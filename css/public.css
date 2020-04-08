@@ -1,0 +1,53 @@
+/**
+ * @author dustdawn
+ * @date 2020/4/7 19:04
+ * @Description: 公共通用css
+*/
+
+.container {
+    height: 180px;
+    width: 964px;
+    background: #2c6dd2;
+    border: none;
+}
+
+.header {
+    height: 134px;
+}
+
+
+.nav {
+    height: 600px;
+    width: 964px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    background: #ffffff;
+}
+
+.division {
+    background: #f8f8fa;
+    height: 30px;
+    width: 964px;
+}
+
+.news {
+    background: #ffffff;
+    height: 940px;
+    width: 964px;
+}
+
+.footer {
+    background: #ffffff;
+    border-top: solid #ddd 3px;
+    height: 100px;
+    width: 964px;
+
+}
+
+.text {
+    font-size: 30px;
+    color: #343134;
+    text-align: center;
+    padding-top: 10px;
+}
+
